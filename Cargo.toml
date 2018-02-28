@@ -1,0 +1,7 @@
+[package]
+name = "mm-byte-order"
+version = "0.1.0"
+authors = ["munenaga <mm0205@outlook.jp>"]
+
+[dependencies]
+
